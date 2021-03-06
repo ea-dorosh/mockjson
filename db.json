@@ -1,0 +1,60 @@
+{
+  "shops": [
+    {
+      "shop": {
+        "name": "AVS1",
+        "type": "offline",
+        "value": "Shop"
+      },
+      "city": "Austin",
+      "tel": "720-815-5550",
+      "inventory": 872,
+      "dailySale": {
+        "date": "today",
+        "amount": 135.21
+      }
+    },
+    {
+      "shop": {
+        "name": "AVS2",
+        "type": "offline",
+        "value": "Shop"
+      },
+      "city": "Austin",
+      "tel": "720-815-5550",
+      "inventory": 261,
+      "dailySale": {
+        "date": "today",
+        "amount": 135.21
+      }
+    },
+    {
+      "shop": {
+        "name": "AVS3",
+        "type": "offline",
+        "value": "Shop"
+      },
+      "city": "Austin",
+      "tel": "720-815-5550",
+      "inventory": 230,
+      "dailySale": {
+        "date": "today",
+        "amount": 135.21
+      }
+    },
+    {
+      "shop": {
+        "name": "WH1",
+        "type": "online",
+        "value": "Warehouses"
+      },
+      "city": "Austin",
+      "tel": "720-815-5550",
+      "inventory": 2840,
+      "dailySale": {
+        "date": "today",
+        "amount": 135.21
+      }
+    }
+  ]
+}
