@@ -1,60 +1,22 @@
 {
-  "shops": [
+  "products": [
     {
-      "shop": {
-        "name": "AVS1",
-        "type": "offline",
-        "value": "Shop"
-      },
-      "city": "Austin",
-      "tel": "720-815-5550",
-      "inventory": 872,
-      "dailySale": {
-        "date": "today",
-        "amount": 135.21
-      }
+      "id": 121212,
+      "name": "Name product",
+      "price": 2840,
+      "quantity": 1
     },
     {
-      "shop": {
-        "name": "AVS2",
-        "type": "offline",
-        "value": "Shop"
-      },
-      "city": "Austin",
-      "tel": "720-815-5550",
-      "inventory": 261,
-      "dailySale": {
-        "date": "today",
-        "amount": 135.21
-      }
+      "id": 3232323,
+      "name": "Name product 2",
+      "price": 840,
+      "quantity": 2
     },
     {
-      "shop": {
-        "name": "AVS3",
-        "type": "offline",
-        "value": "Shop"
-      },
-      "city": "Austin",
-      "tel": "720-815-5550",
-      "inventory": 230,
-      "dailySale": {
-        "date": "today",
-        "amount": 135.21
-      }
-    },
-    {
-      "shop": {
-        "name": "WH1",
-        "type": "online",
-        "value": "Warehouses"
-      },
-      "city": "Austin",
-      "tel": "720-815-5550",
-      "inventory": 2840,
-      "dailySale": {
-        "date": "today",
-        "amount": 135.21
-      }
+      "id": 4343443,
+      "name": "Name product 3",
+      "price": 40,
+      "quantity": 33
     }
   ]
 }
