@@ -1,22 +1,28 @@
 {
   "products": [
     {
-      "id": 121212,
+      "id": 121,
       "name": "Oakley Hoolbrook",
       "price": 240,
       "quantity": 1
     },
     {
-      "id": 3232323,
+      "id": 231,
       "name": "Oakley Catalyst",
       "price": 136,
       "quantity": 2
     },
     {
-      "id": 4343443,
+      "id": 456,
       "name": "Oakley Frogskins",
       "price": 116,
-      "quantity": 3
+      "quantity": 2
+    },
+    {
+      "id": 345,
+      "name": "Oakley Frogskins Lite",
+      "price": 99,
+      "quantity": 1
     }
   ]
 }
